@@ -12,7 +12,7 @@ export default function Home() {
         <div className="mx-auto max-w-7xl">
           <div className="text-center">
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-              Hi, I'm Nickey Ombasa
+              Hi, I&apos;m Nickey Ombasa
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600">
               Web Developer & AI/ML Enthusiast | Technical Trainer in Computer Studies

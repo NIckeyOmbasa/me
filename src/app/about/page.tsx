@@ -14,7 +14,7 @@ export default function About() {
               About Me
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600 max-w-3xl mx-auto">
-              I'm a passionate web developer and AI/ML enthusiast, currently pursuing technical training in computer studies.
+              I&apos;m a passionate web developer and AI/ML enthusiast, currently pursuing technical training in computer studies.
               My focus is on creating innovative solutions that combine modern web technologies with artificial intelligence.
             </p>
           </div>
